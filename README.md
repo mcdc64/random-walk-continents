@@ -10,7 +10,7 @@ Using the .ipynb (Anaconda required for Jupyter/matplotlib):
 3. Save image and customise to your heart's content in MS Paint or other program like paint.net (e.g. to remove lakes, make islands)
 
 Using the .py (matplotlib required):
-1. Open the .py file from the command line ("python random_walk.py" on Windows). The continent will appear (no slider :( )
+1. Open the .py file from the command line ("python random_walk.py" on Windows). The continent will appear (no slider :(   )
 2. Save and customise in MS Paint or other program like paint.net  (e.g. to remove lakes, make islands)
 
 Note: Sometimes the continents are too thin or snaky to look like "real" continents. If this happens just run the program again until you get one that you like the look of.
